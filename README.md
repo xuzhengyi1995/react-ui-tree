@@ -6,7 +6,7 @@ This project was initially developed for a webpage builder. It maintains an
 internal tree structure within the component through
 [js-tree](https://github.com/wangzuo/js-tree).
 
-###Modified:
+### Modified:
 
 Add remove, add, change in node render.
 ```js
