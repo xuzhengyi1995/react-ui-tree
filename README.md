@@ -1,14 +1,19 @@
 # react-ui-tree
 
-[![Build Status](https://travis-ci.org/pqx/react-ui-tree.svg)](https://travis-ci.org/pqx/react-ui-tree)
-[![npm](https://img.shields.io/npm/v/react-ui-tree.svg)](https://www.npmjs.com/package/react-ui-tree)
-[![npm](https://img.shields.io/npm/dm/react-ui-tree.svg)](https://www.npmjs.com/package/react-ui-tree)
-
-React tree component
+React tree component for Porphyry
 
 This project was initially developed for a webpage builder. It maintains an
 internal tree structure within the component through
 [js-tree](https://github.com/wangzuo/js-tree).
+
+###Modified:
+
+Add remove, add, change in node render.
+```js
+renderNode(node, id, handleRemoveNode, handleAddNode, forceChange)
+```
+
+Use Ctrl+mouse move to move the node.
 
 ### Demo
 

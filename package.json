@@ -1,7 +1,7 @@
 {
-  "name": "react-ui-tree",
-  "version": "4.0.0",
-  "description": "React tree component",
+  "name": "react-ui-tree-porphyry",
+  "version": "1.0.0",
+  "description": "React tree component for Porphyry",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --port=8080",
@@ -16,19 +16,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pqx/react-ui-tree.git"
+    "url": "https://github.com/xuzhengyi1995/react-ui-tree.git"
   },
   "keywords": [
     "react",
     "react-component",
     "tree"
   ],
-  "author": "Wang Zuo",
+  "author": "XU Zhengyi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pqx/react-ui-tree/issues"
+    "url": "https://github.com/xuzhengyi1995/react-ui-tree/issues"
   },
-  "homepage": "https://github.com/pqx/react-ui-tree",
+  "homepage": "https://github.com/xuzhengyi1995/react-ui-tree",
   "peerDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
