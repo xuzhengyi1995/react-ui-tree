@@ -1,6 +1,6 @@
 {
   "name": "react-ui-tree-porphyry",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React tree component for Porphyry",
   "main": "index.js",
   "scripts": {
